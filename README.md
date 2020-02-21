@@ -7,12 +7,17 @@ _Gamestorming is a set of co-creation tools used by innovators around the world.
 
 https://gamestorming.com/
 
-
 ### Hyper Island's Toolbox
 
 _Methods & Tools curated by Hyper Island._
 
 https://toolbox.hyperisland.com/
+
+### Innovators Compass
+
+_Innovators' Compass is a powerful tool that helps people move forward in any challenge, big or small—in one usable, shareable picture._
+
+http://innovatorscompass.org/resources
 
 ### Mitre Innovation Toolkit
 
