@@ -1,11 +1,12 @@
 # 👥 Co-Design Resources
 ## Collection of Resources relating to collaborative, participatory, 📝 co-design activities.
 
-### Zurb's Friday 15
+### Gamestorming
 
-_Friday15 is ZURB's collection of creative challenges that help teams hone their product design skills. These activities help teams let loose while building a culture of collaboration and trust._
+_Gamestorming is a set of co-creation tools used by innovators around the world._
 
-https://zurb.com/friday15
+https://gamestorming.com/
+
 
 ### Hyper Island's Toolbox
 
@@ -13,11 +14,17 @@ _Methods & Tools curated by Hyper Island._
 
 https://toolbox.hyperisland.com/
 
-### Gamestorming
+### Mitre Innovation Toolkit
 
-_Gamestorming is a set of co-creation tools used by innovators around the world._
+_The Innovation Toolkit (ITK) is a collection of methods and techniques to help you and your team be more innovative._
 
-https://gamestorming.com/
+https://itk.mitre.org/
+
+### Session Lab
+
+_Library of facilitation techniques._
+
+https://www.sessionlab.com/library
 
 ### ToolboxToolbox
 
@@ -31,14 +38,8 @@ _A compendium of toolkits for public sector innovation and transformation, curat
 
 https://oecd-opsi.org/toolkit-navigator/
 
-### Session Lab
+### Zurb's Friday 15
 
-_Library of facilitation techniques._
+_Friday15 is ZURB's collection of creative challenges that help teams hone their product design skills. These activities help teams let loose while building a culture of collaboration and trust._
 
-https://www.sessionlab.com/library
-
-### Mitre Innovation Toolkit
-
-_The Innovation Toolkit (ITK) is a collection of methods and techniques to help you and your team be more innovative._
-
-https://itk.mitre.org/
+https://zurb.com/friday15
