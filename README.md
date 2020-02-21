@@ -1,5 +1,5 @@
-# 👥 Co-Design Resources
-## Collection of Resources relating to collaborative, participatory, 📝 co-design activities.
+# 🗂 Co-Design Resources
+## Collection of Resources relating to collaborative, participatory, 👥 📝 co-design activities.
 
 ### Gamestorming
 
