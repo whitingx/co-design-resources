@@ -1,6 +1,8 @@
 # 🗂 Co-Design Resources
 ## Collection of Resources relating to collaborative, participatory, 👥 📝 co-design activities.
 
+_Curated by 🏢 Merlan Ltd.'s 👤 Rob Whiting._ 
+
 ### Gamestorming
 
 _Gamestorming is a set of co-creation tools used by innovators around the world._
