@@ -3,6 +3,11 @@
 
 _Curated by 🏢 Merlan Ltd.'s 👤 Rob Whiting._ 
 
+### Board of Innovation
+_Leading innovation management theory turned into hands-on, easy-to-use, actionable innovation tools._
+
+https://www.boardofinnovation.com/tools/
+
 ### Gamestorming
 
 _Gamestorming is a set of co-creation tools used by innovators around the world._
