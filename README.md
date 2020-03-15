@@ -3,6 +3,11 @@
 
 _Curated by 🏢 Merlan Ltd.'s 👤 Rob Whiting._ 
 
+### Auckland Co-Design Lab
+_A selection of tools and resources the Lab team have developed provided under a creative commons attribution and share-alike licence._
+
+https://www.aucklandco-lab.nz/resources
+
 ### Board of Innovation
 _Leading innovation management theory turned into hands-on, easy-to-use, actionable innovation tools._
 
