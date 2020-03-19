@@ -13,6 +13,11 @@ _Leading innovation management theory turned into hands-on, easy-to-use, actiona
 
 https://www.boardofinnovation.com/tools/
 
+### Collaborative Improv
+_Collaborative Improv is intended as a reference for collaboration and co-creation. Through the lenses and lessons of improvisation, this book provides a vocabulary for designing, building, and collaborating on products in our modern day world. _
+
+https://collaborativeimprov.com/glossary-of-games/
+
 ### Gamestorming
 
 _Gamestorming is a set of co-creation tools used by innovators around the world._
