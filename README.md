@@ -60,6 +60,12 @@ _A compendium of toolkits for public sector innovation and transformation, curat
 
 https://oecd-opsi.org/toolkit-navigator/
 
+### Workshop Tactics 
+
+_A curated list of the best agile and design-thinking workshop techniques to ensure your team achieves success._
+
+https://www.workshoptactics.com/pages/tactics
+
 ### Zurb's Friday 15
 
 _Friday15 is ZURB's collection of creative challenges that help teams hone their product design skills. These activities help teams let loose while building a culture of collaboration and trust._
