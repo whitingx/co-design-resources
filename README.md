@@ -1,5 +1,5 @@
 # 🗂 Co-Design Resources
-## Collection of Resources relating to collaborative, participatory, 👥 📝 co-design activities.
+## Collection of Resources relating to 👥 collaborative, participatory, 📝 co-design activities.
 
 _Curated by 🏢 Merlan Ltd.'s 👤 Rob Whiting._ 
 
@@ -66,8 +66,8 @@ _A curated list of the best agile and design-thinking workshop techniques to ens
 
 https://www.workshoptactics.com/pages/tactics
 
-### Zurb's Friday 15
+### [⚠️ Inactive] ~~Zurb's Friday 15~~
 
-_Friday15 is ZURB's collection of creative challenges that help teams hone their product design skills. These activities help teams let loose while building a culture of collaboration and trust._
+_[⚠️ Inactive] ~~Friday15 is ZURB's collection of creative challenges that help teams hone their product design skills. These activities help teams let loose while building a culture of collaboration and trust.~~_
 
-https://zurb.com/friday15
+~~https://zurb.com/friday15~~
