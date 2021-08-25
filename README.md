@@ -1,7 +1,7 @@
 # 🗂 Co-Design Resources
 ## Collection of Resources relating to 👥 collaborative, participatory, 📝 co-design activities.
 
-_Curated by 🏢 Merlan Ltd.'s 👤 Rob Whiting._ 
+_Curated by [Merlan Ltd.'s](https://twitter.com/MerlanHQ/) [Rob Whiting](https://twitter.com/whitingx)._ 
 
 ### Auckland Co-Design Lab
 _A selection of tools and resources the Lab team have developed provided under a creative commons attribution and share-alike licence._
@@ -41,6 +41,12 @@ http://innovatorscompass.org/resources
 _The Innovation Toolkit (ITK) is a collection of methods and techniques to help you and your team be more innovative._
 
 https://itk.mitre.org/
+
+### Seeds For Change
+
+_Guides designed to help you be more effective in your campaign, co-op or project. All Seeds for Change guides are anti-copyright and include some translated resources._
+
+https://seedsforchange.org.uk/resources
 
 ### Session Lab
 
