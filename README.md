@@ -36,6 +36,12 @@ _Innovators' Compass is a powerful tool that helps people move forward in any ch
 
 http://innovatorscompass.org/resources
 
+### Leapfrog Tools and Toolboxes
+
+_Tools and toolboxes that anyone can use to do more creative and engaging consultation._
+
+http://leapfrog.tools/tools/
+
 ### Mitre Innovation Toolkit
 
 _The Innovation Toolkit (ITK) is a collection of methods and techniques to help you and your team be more innovative._
