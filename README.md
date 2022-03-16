@@ -48,6 +48,12 @@ _The Innovation Toolkit (ITK) is a collection of methods and techniques to help 
 
 https://itk.mitre.org/
 
+### Prototyping for Impact
+
+_The Prototyping for Impact toolkit was designed to help you quickly prototype and validate new service concepts._
+
+https://prototypingforimpact.com/
+
 ### Seeds For Change
 
 _Guides designed to help you be more effective in your campaign, co-op or project. All Seeds for Change guides are anti-copyright and include some translated resources._
