@@ -66,6 +66,12 @@ _Library of facilitation techniques._
 
 https://www.sessionlab.com/library
 
+### The Glass-House.
+
+_Community led design resources._
+
+https://theglasshouse.org.uk/resources/
+
 ### ToolboxToolbox
 
 _A curated list of the best business, design, and organisational change toolboxes built by some of the most influential companies, institutions and thinkers._
